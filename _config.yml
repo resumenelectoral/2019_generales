@@ -1,7 +1,7 @@
 # Site settings
 title: ResumenElectoral.org
 description: Todos los resumenes electorales para las elecciones en España
-url: "https://resumenelectoral.org"
+url: "https://resumenelectoral.github.io"
 
 # Build settings
 markdown: kramdown
