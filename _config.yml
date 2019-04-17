@@ -1,0 +1,26 @@
+# Site settings
+title: ResumenElectoral.org
+description: Todos los resumenes electorales para las elecciones en España
+url: "https://resumenelectoral.org"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Inicio
+    url: /
+  - title: Etiquetas
+    url: /tags
+  - title: Acerca de
+    url: /about
