@@ -4,7 +4,7 @@ title: "Partido Popular"
 date: 2019-04-16 00:00:00
 description: "Elecciones generales 2019: Programa electoral 2019 elecciones generales, autonómicas y municipales"
 main-class: 'pp'
-color: '#f75200'
+color: '#0bb2ff'
 tags:
 - "pp"
 - "partido popular"
