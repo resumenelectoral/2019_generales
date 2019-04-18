@@ -9,8 +9,9 @@ tags:
 - "unidaspodemos"
 - "podemos"
 - "iu"
+- "elecciones_generales_2019"
 twitter_text: "Resumen electoral para las generales de 2019 de Unidas Podemos"
-introduction: "Programa de podemos para un nuevo país"
+introduction: "Elecciones generales 2019: Programa de podemos para un nuevo país"
 ---
 
 [Enlace al programa electoral completo](https://podemos.info/wp-content/uploads/2019/04/Podemos_programa_generales_28A.pdf)
