@@ -6,8 +6,6 @@ description: "Elecciones generales 2019: Programa electoral 2019 elecciones gene
 main-class: 'pp'
 color: '#0bb2ff'
 tags:
-- "pp"
-- "partido popular"
 - "elecciones_generales_2019"
 twitter_text: "Resumen electoral para las generales de 2019 de PP"
 introduction: "Elecciones generales 2019: Programa electoral 2019 elecciones generales, autonómicas y municipales"
