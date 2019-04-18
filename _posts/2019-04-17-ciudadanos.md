@@ -7,8 +7,9 @@ main-class: 'ciudadanos'
 color: '#f75200'
 tags:
 - "ciudadanos"
+- "elecciones_generales_2019"
 twitter_text: "Resumen electoral para las generales de 2019 de Ciudadanos"
-introduction: "Nuestro compromiso con los españoles"
+introduction: "Elecciones generales 2019: Nuestro compromiso con los españoles"
 ---
 
 [Enlace programa electoral completo](https://www.ciudadanos-cs.org/programa-electoral)
