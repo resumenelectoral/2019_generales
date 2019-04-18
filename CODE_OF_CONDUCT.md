@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct - English
 
 ## Our Pledge
 
@@ -74,3 +74,51 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
+
+---
+
+# Código de conducta - Español
+
+## Nuestro compromiso
+
+Con el fin de fomentar un entorno abierto y acogedor, nosotros, como colaboradores y mantenedores, nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia sin hostigamiento para todos, independientemente de la edad, el tamaño del cuerpo, la discapacidad, el origen étnico, las características sexuales, la identidad de género. Y expresión, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.
+
+## Nuestros estándares
+
+Ejemplos de comportamiento que contribuyen a crear un ambiente positivo:
+
+* Usar lenguaje acogedor e inclusivo.
+* Ser respetuosos con los diferentes puntos de vista y experiencias.
+* Aceptar con agrado la crítica constructiva.
+* Centrarse en lo que es mejor para la comunidad.
+* Mostrar empatía hacia otros miembros de la comunidad.
+
+Ejemplos de comportamiento inaceptable por parte de los participantes:
+
+* El uso de lenguaje o imágenes sexualizadas.
+* "Trolling", comentarios insultantes / despectivos, y ataques personales o políticos.
+* Hostigamiento público o privado.
+* Publicar información privada de otros, como una dirección física o electrónica, sin permiso explícito.
+* Otra conducta que podría considerarse inapropiada en un entorno profesional.
+
+## Nuestras responsabilidades
+
+Los responsables del proyecto son encargados de aclarar los estándares de comportamiento aceptable y se espera que tomen las medidas correctivas adecuadas y justas en respuesta a cualquier instancia de comportamiento inaceptable.
+
+Los responsables del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones, códigos, ediciones de wiki, problemas y otras contribuciones que no estén alineadas con este Código de conducta, o de prohibir temporal o permanentemente a cualquier colaborador por otras conductas que los consideren inapropiados, amenazantes, ofensivos o dañinos.
+
+## Alcance
+
+Este Código de conducta se aplica tanto en los espacios del proyecto como en los espacios públicos cuando una persona representa al proyecto o su comunidad. Los ejemplos de representación de un proyecto o comunidad incluyen el uso de una dirección de correo electrónico oficial del proyecto, la publicación a través de una cuenta oficial de las redes sociales, o actuar como un representante designado en un evento en línea o fuera de línea. La representación de un proyecto puede ser definida y clarificada aún más por los mantenedores del proyecto.
+
+## Aplicación
+
+Comuníquese con el equipo del proyecto para informar sobre casos de comportamiento abusivo, acosador o inaceptable. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad con respecto al informador de un incidente. Otros detalles de políticas específicas de cumplimiento pueden ser publicadas por separado.
+
+Los mantenedores del proyecto que no siguen o hacen cumplir el Código de conducta de buena fe se pueden enfrentar a repercusiones temporales o permanentes según lo determinen otros miembros de la dirección del proyecto.
+
+## Atribución
+
+Este Código de conducta es una adaptación del Pacto de Colaboradores, versión 1.4, disponible en https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+Para obtener respuestas a preguntas comunes sobre este código de conducta, consulte https://www.contributor-covenant.org/faq
