@@ -8,8 +8,9 @@ color: '#0bb2ff'
 tags:
 - "pp"
 - "partido popular"
+- "elecciones_generales_2019"
 twitter_text: "Resumen electoral para las generales de 2019 de PP"
-introduction: "Programa electoral 2019 elecciones generales, autonómicas y municipales"
+introduction: "Elecciones generales 2019: Programa electoral 2019 elecciones generales, autonómicas y municipales"
 ---
 
 [Enlace al programa electoral completo](http://www.pp.es/sites/default/files/documentos/programa_electoral_2019_pp_0.pdf)
