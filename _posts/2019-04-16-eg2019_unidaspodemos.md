@@ -6,9 +6,6 @@ description: "Elecciones generales 2019: Programa de podemos para un nuevo país
 main-class: 'podemos'
 color: '#8642f4'
 tags:
-- "unidaspodemos"
-- "podemos"
-- "iu"
 - "elecciones_generales_2019"
 twitter_text: "Resumen electoral para las generales de 2019 de Unidas Podemos"
 introduction: "Elecciones generales 2019: Programa de podemos para un nuevo país"
