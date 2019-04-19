@@ -1,0 +1,14 @@
+---
+layout: minimal
+title: "Partidos políticos"
+permalink: /category/index.html
+description: ""
+---
+
+<div class="tags">
+{% assign categories_list = site.category %}
+    {% for category in categories_list %}
+        <a href="{{ category | slugify }}">{{ category }}</a>
+    {% endfor %}
+{% assign categories_list = nil %}
+</div>
