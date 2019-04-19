@@ -20,7 +20,20 @@ compress_html:
 links:
   - title: Inicio
     url: /
-  - title: Etiquetas
+  - title: Partidos políticos
+    url: /category
+  - title: Elecciones
     url: /tags
   - title: Acerca de
     url: /about
+
+category:
+  - ciudadanos
+  - pacma
+  - pnv
+  - podemos
+  - pp
+  - psoe
+  - vox
+
+tag_for_index: "elecciones_generales_2019"
